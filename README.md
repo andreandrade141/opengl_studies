@@ -2,4 +2,6 @@
 
 -cube.py -> generate a simple 3D cube and apply some transforms on it.
 
--torus.py -> generate a torus and apply some transforms on it
+-torus.py -> generate a torus and apply some transforms on it.
+
+-house.py -> draws a simple house on the screen.
